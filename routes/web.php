@@ -17,5 +17,5 @@
 
 Route::get('/', function()
 {
-    return User::all();
+    return App\User::all();
 });
