@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Test Pipeline Laravel
+                    Test ENV VARS
                 </div>
 
                 <div class="links">
