@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Test Pipline Laravel
+                    Test Pipeline Laravel
                 </div>
 
                 <div class="links">
